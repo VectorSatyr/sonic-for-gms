@@ -1,10 +1,8 @@
-<p align="center"><img src="https://github.com/VectorSatyr/sonic-gms2/blob/2.3/images/sonicgms-full-color-transparent.png" alt="Sonic for GMS Logo" width="664px" height="260px"/></p>
+<p align="center"><img src="https://github.com/VectorSatyr/sonic-for-gms/blob/main/images/sonicgms-full-color-transparent.png" alt="Sonic for GMS Logo" width="664px" height="260px"/></p>
 
 ## What is this?
 
-**Sonic For GMS** is a GameMaker Studio 2 project acting as a template for constructing video games based on the *Sonic the Hedgehog* titles for the Sega Genesis / Mega Drive.
-
-:warning: *The branch you are currently viewing contains source code that is only compatible with the latest IDE version (**2.3.3.570**) and runtime (**2.3.3.434**) of GameMaker Studio 2.*
+**Sonic For GMS** is a GameMaker project acting as a template for constructing video games based on the *Sonic the Hedgehog* titles for the Sega Genesis / Mega Drive.
 
 ## Licensing
 
