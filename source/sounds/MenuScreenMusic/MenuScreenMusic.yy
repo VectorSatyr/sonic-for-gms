@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 3,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "MenuScreenMusic",
-  "duration": 6.143776,
+  "duration": 6.138776,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/Background Music/General.yy",

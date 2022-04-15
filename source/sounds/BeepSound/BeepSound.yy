@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "BeepSound",
-  "duration": 0.06924,
+  "duration": 0.06424,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/Sound Effects/General.yy",

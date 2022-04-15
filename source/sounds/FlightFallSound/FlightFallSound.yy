@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "FlightFallSound",
-  "duration": 0.270896,
+  "duration": 0.265896,
   "parent": {
     "name": "Tails",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Tails.yy",

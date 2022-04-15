@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "SpringSound",
-  "duration": 1.040533,
+  "duration": 1.035533,
   "parent": {
     "name": "Common",
     "path": "folders/Sounds/Sound Effects/Levels/Common.yy",

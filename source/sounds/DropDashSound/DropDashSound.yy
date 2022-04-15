@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "DropDashSound",
-  "duration": 1.129989,
+  "duration": 1.124989,
   "parent": {
     "name": "Sonic",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Sonic.yy",

@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "CollapseSound",
-  "duration": 2.436338,
+  "duration": 2.431338,
   "parent": {
     "name": "Common",
     "path": "folders/Sounds/Sound Effects/Levels/Common.yy",

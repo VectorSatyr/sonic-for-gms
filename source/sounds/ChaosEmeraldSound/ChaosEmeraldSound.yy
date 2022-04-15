@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "ChaosEmeraldSound",
-  "duration": 2.82212,
+  "duration": 2.81712,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/Sound Effects/General.yy",

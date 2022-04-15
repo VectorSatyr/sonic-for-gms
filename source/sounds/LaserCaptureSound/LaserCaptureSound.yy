@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "LaserCaptureSound",
-  "duration": 0.60246,
+  "duration": 0.59746,
   "parent": {
     "name": "Bonus Stage",
     "path": "folders/Sounds/Sound Effects/Levels/Bonus Stage.yy",

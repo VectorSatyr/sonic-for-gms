@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "SplashSound",
-  "duration": 1.920488,
+  "duration": 1.915488,
   "parent": {
     "name": "Common",
     "path": "folders/Sounds/Sound Effects/Levels/Common.yy",

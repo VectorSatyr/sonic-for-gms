@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "FlipperSound",
-  "duration": 0.672052,
+  "duration": 0.667052,
   "parent": {
     "name": "Common",
     "path": "folders/Sounds/Sound Effects/Levels/Common.yy",

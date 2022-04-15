@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "BossHitSound",
-  "duration": 0.671735,
+  "duration": 0.666735,
   "parent": {
     "name": "Common",
     "path": "folders/Sounds/Sound Effects/Levels/Common.yy",

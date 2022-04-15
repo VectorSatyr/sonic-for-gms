@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "FlameDashSound",
-  "duration": 0.835363,
+  "duration": 0.830363,
   "parent": {
     "name": "Sonic",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Sonic.yy",

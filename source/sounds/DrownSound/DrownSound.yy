@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "DrownSound",
-  "duration": 1.668537,
+  "duration": 1.663537,
   "parent": {
     "name": "Common",
     "path": "folders/Sounds/Sound Effects/Player Character/Common.yy",

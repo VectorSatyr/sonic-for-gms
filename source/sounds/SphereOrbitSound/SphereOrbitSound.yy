@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "SphereOrbitSound",
-  "duration": 1.164365,
+  "duration": 1.159365,
   "parent": {
     "name": "Bonus Stage",
     "path": "folders/Sounds/Sound Effects/Levels/Bonus Stage.yy",

@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "ShieldSound",
-  "duration": 0.724093,
+  "duration": 0.719093,
   "parent": {
     "name": "Shields",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Shields.yy",

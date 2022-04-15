@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 2,
   "volume": 1.0,
   "preload": false,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "BonusStageMusic",
-  "duration": 73.56582,
+  "duration": 73.5608139,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/Background Music/General.yy",

@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 2,
   "volume": 1.0,
   "preload": false,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "Studiopolis1Music",
-  "duration": 187.250717,
+  "duration": 187.245712,
   "parent": {
     "name": "Levels",
     "path": "folders/Sounds/Background Music/Levels.yy",

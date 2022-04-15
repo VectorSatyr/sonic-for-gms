@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 3,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "ZoneBossMusic",
-  "duration": 36.2368355,
+  "duration": 36.23184,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/Background Music/General.yy",
