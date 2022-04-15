@@ -57,15 +57,15 @@ if (game_is_running()) {
 	
 	case "deploying":
 		chain_base_distance = min(
-			++chain_base_distance, chain_base_max_distance
+			chain_base_distance + 1, chain_base_max_distance
 		);
 		for (var n = 0; n < total_chain_links; ++n) {
 			chain_link_distance[n] = min(
-				++chain_link_distance[n], chain_link_max_distance[n]
+				chain_link_distance[n] + 1, chain_link_max_distance[n]
 			);
 		}
 		chain_ball_distance = min(
-			++chain_ball_distance, chain_ball_max_distance
+			chain_ball_distance + 1, chain_ball_max_distance
 		);
 		if (chain_ball_distance >= chain_ball_max_distance) {
 			x_speed = -move_speed;
