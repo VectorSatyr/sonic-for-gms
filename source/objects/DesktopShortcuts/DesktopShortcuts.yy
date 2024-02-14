@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "DesktopShortcuts",
   "spriteId": null,
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": true,
   "parentObjectId": null,
@@ -18,9 +22,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":122,"eventType":9,"collisionObjectId":null,"parent":{"name":"DesktopShortcuts","path":"objects/DesktopShortcuts/DesktopShortcuts.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":116,"eventType":9,"collisionObjectId":null,"parent":{"name":"DesktopShortcuts","path":"objects/DesktopShortcuts/DesktopShortcuts.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":27,"eventType":9,"collisionObjectId":null,"parent":{"name":"DesktopShortcuts","path":"objects/DesktopShortcuts/DesktopShortcuts.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":122,"eventType":9,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":116,"eventType":9,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":27,"eventType":9,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -28,8 +32,4 @@
     "name": "Desktop",
     "path": "folders/Objects/Desktop.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DesktopShortcuts",
-  "tags": [],
-  "resourceType": "GMObject",
 }

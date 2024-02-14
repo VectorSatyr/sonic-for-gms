@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "LifeUpGumball",
   "spriteId": {
     "name": "LifeUpGumballSprite",
     "path": "sprites/LifeUpGumballSprite/LifeUpGumballSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "Gumballs",
     "path": "folders/Objects/Level Elements/Common/Bonus Stage/Gumballs.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "LifeUpGumball",
-  "tags": [],
-  "resourceType": "GMObject",
 }

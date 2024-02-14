@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "BubblePattern",
   "spriteId": null,
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "Bubbles",
     "path": "folders/Objects/Level Elements/Common/Water/Bubbles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "BubblePattern",
-  "tags": [],
-  "resourceType": "GMObject",
 }

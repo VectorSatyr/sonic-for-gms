@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "LandingSound",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -16,8 +20,4 @@
     "name": "Knuckles",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Knuckles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "LandingSound",
-  "tags": [],
-  "resourceType": "GMSound",
 }

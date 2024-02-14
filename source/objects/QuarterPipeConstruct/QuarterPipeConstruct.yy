@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "QuarterPipeConstruct",
   "spriteId": {
     "name": "QuarterPipeMaskSprite",
     "path": "sprites/QuarterPipeMaskSprite/QuarterPipeMaskSprite.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -27,7 +31,7 @@
     {"x":16.0,"y":16.0,},
   ],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,"parent":{"name":"QuarterPipeConstruct","path":"objects/QuarterPipeConstruct/QuarterPipeConstruct.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -35,8 +39,4 @@
     "name": "Terrain Constructs",
     "path": "folders/Objects/Level Elements/Common/Terrain/Terrain Constructs.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "QuarterPipeConstruct",
-  "tags": [],
-  "resourceType": "GMObject",
 }

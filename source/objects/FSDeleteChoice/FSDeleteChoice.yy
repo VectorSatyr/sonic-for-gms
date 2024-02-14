@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "FSDeleteChoice",
   "spriteId": {
     "name": "FileSelectMenuChoiceSprite",
     "path": "sprites/FileSelectMenuChoiceSprite/FileSelectMenuChoiceSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"FSDeleteChoice","path":"objects/FSDeleteChoice/FSDeleteChoice.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "Types",
     "path": "folders/Objects/UI Elements/Menus/File Select/Choices/Types.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "FSDeleteChoice",
-  "tags": [],
-  "resourceType": "GMObject",
 }

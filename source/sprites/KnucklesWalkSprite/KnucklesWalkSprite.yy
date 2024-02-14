@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "KnucklesWalkSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 40,
   "height": 37,
   "textureGroupId": {
@@ -24,33 +28,19 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c85fef21-ec03-43fc-8753-8da1ae43ecff","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c85fef21-ec03-43fc-8753-8da1ae43ecff","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"c85fef21-ec03-43fc-8753-8da1ae43ecff","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"efb2aaa8-55b8-49fb-b9e6-0d1214224d59","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"efb2aaa8-55b8-49fb-b9e6-0d1214224d59","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"efb2aaa8-55b8-49fb-b9e6-0d1214224d59","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bf3881fa-b5c6-4922-bb44-7568161ede1c","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bf3881fa-b5c6-4922-bb44-7568161ede1c","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"bf3881fa-b5c6-4922-bb44-7568161ede1c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ab0a3bd3-5ddd-4558-8819-4d6c5b7e8e0e","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ab0a3bd3-5ddd-4558-8819-4d6c5b7e8e0e","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"ab0a3bd3-5ddd-4558-8819-4d6c5b7e8e0e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9aa6cec9-7990-47a2-aae8-66f3c6ee56b6","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9aa6cec9-7990-47a2-aae8-66f3c6ee56b6","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"9aa6cec9-7990-47a2-aae8-66f3c6ee56b6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d3c24326-f2f5-48fb-9af1-000388ff584e","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d3c24326-f2f5-48fb-9af1-000388ff584e","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"d3c24326-f2f5-48fb-9af1-000388ff584e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5c174d05-5634-4a71-8e49-ab154b6d0990","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5c174d05-5634-4a71-8e49-ab154b6d0990","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"5c174d05-5634-4a71-8e49-ab154b6d0990","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6216926e-b23b-44f5-bff1-9da528e049b3","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6216926e-b23b-44f5-bff1-9da528e049b3","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"LayerId":{"name":"ba93fa84-7c57-4711-a527-b52aeb050d17","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","name":"6216926e-b23b-44f5-bff1-9da528e049b3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c85fef21-ec03-43fc-8753-8da1ae43ecff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"efb2aaa8-55b8-49fb-b9e6-0d1214224d59",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf3881fa-b5c6-4922-bb44-7568161ede1c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ab0a3bd3-5ddd-4558-8819-4d6c5b7e8e0e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9aa6cec9-7990-47a2-aae8-66f3c6ee56b6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d3c24326-f2f5-48fb-9af1-000388ff584e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5c174d05-5634-4a71-8e49-ab154b6d0990",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6216926e-b23b-44f5-bff1-9da528e049b3",},
   ],
   "sequence": {
-    "spriteId": {"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -61,7 +51,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"602f24c9-f776-4e42-a67c-b87699fe7263","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c85fef21-ec03-43fc-8753-8da1ae43ecff","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"81a2b7a9-3582-4146-9429-1cc5ab599586","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"efb2aaa8-55b8-49fb-b9e6-0d1214224d59","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"cb1d9e6f-aa2a-4eb6-b1f2-0b2ff59acaa4","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf3881fa-b5c6-4922-bb44-7568161ede1c","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -70,7 +60,7 @@
             {"id":"767f1999-920d-439b-80b5-8c77ebe309f5","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d3c24326-f2f5-48fb-9af1-000388ff584e","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"db27d6fb-b862-4f43-9d20-fe301ff9158c","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5c174d05-5634-4a71-8e49-ab154b6d0990","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f652e606-7620-444c-b59d-a98735f94826","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6216926e-b23b-44f5-bff1-9da528e049b3","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -86,21 +76,13 @@
     "yorigin": 21,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"KnucklesWalkSprite","path":"sprites/KnucklesWalkSprite/KnucklesWalkSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ba93fa84-7c57-4711-a527-b52aeb050d17","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ba93fa84-7c57-4711-a527-b52aeb050d17","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Knuckles",
     "path": "folders/Sprites/Level Elements/Player/Characters/Knuckles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "KnucklesWalkSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

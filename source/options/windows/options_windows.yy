@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMWindowsOptions",
+  "resourceVersion": "1.1",
+  "name": "Windows",
   "option_windows_display_name": "Sonic for GMS",
   "option_windows_executable_name": "${project_name}",
   "option_windows_version": "1.0.10.1",
@@ -28,9 +31,4 @@
   "option_windows_enable_steam": false,
   "option_windows_disable_sandbox": false,
   "option_windows_steam_use_alternative_launcher": true,
-  "option_windows_use_x64": false,
-  "resourceVersion": "1.1",
-  "name": "Windows",
-  "tags": [],
-  "resourceType": "GMWindowsOptions",
 }

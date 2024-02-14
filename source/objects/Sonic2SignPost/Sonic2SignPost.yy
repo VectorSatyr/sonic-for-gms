@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Sonic2SignPost",
   "spriteId": {
     "name": "SignPostSprite",
     "path": "sprites/SignPostSprite/SignPostSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,"parent":{"name":"Sonic2SignPost","path":"objects/Sonic2SignPost/Sonic2SignPost.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "Sign Posts",
     "path": "folders/Objects/Level Elements/Common/Point Markers/Sign Posts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Sonic2SignPost",
-  "tags": [],
-  "resourceType": "GMObject",
 }

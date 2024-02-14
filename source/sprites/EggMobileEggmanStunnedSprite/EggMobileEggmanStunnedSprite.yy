@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "EggMobileEggmanStunnedSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 53,
   "height": 21,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f3eea519-9b9a-451d-824e-9a52d0add8e4","path":"sprites/EggMobileEggmanStunnedSprite/EggMobileEggmanStunnedSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f3eea519-9b9a-451d-824e-9a52d0add8e4","path":"sprites/EggMobileEggmanStunnedSprite/EggMobileEggmanStunnedSprite.yy",},"LayerId":{"name":"2cd969a4-5e29-4a6b-8f31-028a341801e0","path":"sprites/EggMobileEggmanStunnedSprite/EggMobileEggmanStunnedSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"EggMobileEggmanStunnedSprite","path":"sprites/EggMobileEggmanStunnedSprite/EggMobileEggmanStunnedSprite.yy",},"resourceVersion":"1.0","name":"f3eea519-9b9a-451d-824e-9a52d0add8e4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f3eea519-9b9a-451d-824e-9a52d0add8e4",},
   ],
   "sequence": {
-    "spriteId": {"name":"EggMobileEggmanStunnedSprite","path":"sprites/EggMobileEggmanStunnedSprite/EggMobileEggmanStunnedSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7108a204-1663-4717-a5a5-b52b7c852b40","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f3eea519-9b9a-451d-824e-9a52d0add8e4","path":"sprites/EggMobileEggmanStunnedSprite/EggMobileEggmanStunnedSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -58,21 +62,13 @@
     "yorigin": 21,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"EggMobileEggmanStunnedSprite","path":"sprites/EggMobileEggmanStunnedSprite/EggMobileEggmanStunnedSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2cd969a4-5e29-4a6b-8f31-028a341801e0","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2cd969a4-5e29-4a6b-8f31-028a341801e0","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Eggman",
     "path": "folders/Sprites/Level Elements/Bosses/Eggman.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "EggMobileEggmanStunnedSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

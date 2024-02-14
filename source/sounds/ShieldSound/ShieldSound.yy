@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "ShieldSound",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -16,8 +20,4 @@
     "name": "Shields",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Shields.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ShieldSound",
-  "tags": [],
-  "resourceType": "GMSound",
 }

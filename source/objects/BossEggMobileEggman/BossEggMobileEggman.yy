@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "BossEggMobileEggman",
   "spriteId": {
     "name": "EggMobileEggmanIdleSprite",
     "path": "sprites/EggMobileEggmanIdleSprite/EggMobileEggmanIdleSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "Egg Mobile",
     "path": "folders/Objects/Level Elements/Common/Hazards/Bosses/Egg Mobile.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "BossEggMobileEggman",
-  "tags": [],
-  "resourceType": "GMObject",
 }

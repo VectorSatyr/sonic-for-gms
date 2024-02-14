@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "LaserCaptureSound",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -16,8 +20,4 @@
     "name": "Bonus Stage",
     "path": "folders/Sounds/Sound Effects/Levels/Bonus Stage.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "LaserCaptureSound",
-  "tags": [],
-  "resourceType": "GMSound",
 }

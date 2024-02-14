@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "HUDKnucklesLifeIconSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 48,
   "height": 16,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e851f1e9-d82f-4775-837f-202296c113ca","path":"sprites/HUDKnucklesLifeIconSprite/HUDKnucklesLifeIconSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e851f1e9-d82f-4775-837f-202296c113ca","path":"sprites/HUDKnucklesLifeIconSprite/HUDKnucklesLifeIconSprite.yy",},"LayerId":{"name":"858f86b4-c900-4a3d-8616-5c95d7fe4f80","path":"sprites/HUDKnucklesLifeIconSprite/HUDKnucklesLifeIconSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HUDKnucklesLifeIconSprite","path":"sprites/HUDKnucklesLifeIconSprite/HUDKnucklesLifeIconSprite.yy",},"resourceVersion":"1.0","name":"e851f1e9-d82f-4775-837f-202296c113ca","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e851f1e9-d82f-4775-837f-202296c113ca",},
   ],
   "sequence": {
-    "spriteId": {"name":"HUDKnucklesLifeIconSprite","path":"sprites/HUDKnucklesLifeIconSprite/HUDKnucklesLifeIconSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7a99952c-fd0f-4d9f-aa9d-d8f537b1abbf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e851f1e9-d82f-4775-837f-202296c113ca","path":"sprites/HUDKnucklesLifeIconSprite/HUDKnucklesLifeIconSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -58,21 +62,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"HUDKnucklesLifeIconSprite","path":"sprites/HUDKnucklesLifeIconSprite/HUDKnucklesLifeIconSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"858f86b4-c900-4a3d-8616-5c95d7fe4f80","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"858f86b4-c900-4a3d-8616-5c95d7fe4f80","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Life Icon",
     "path": "folders/Sprites/UI Elements/HUD/Life Icon.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "HUDKnucklesLifeIconSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

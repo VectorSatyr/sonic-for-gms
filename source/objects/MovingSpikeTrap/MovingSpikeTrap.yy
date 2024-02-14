@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "MovingSpikeTrap",
   "spriteId": {
     "name": "SpikeTrapSprite",
     "path": "sprites/SpikeTrapSprite/SpikeTrapSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,8 +28,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"MovingSpikeTrap","path":"objects/MovingSpikeTrap/MovingSpikeTrap.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"MovingSpikeTrap","path":"objects/MovingSpikeTrap/MovingSpikeTrap.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,8 +37,4 @@
     "name": "Spikes",
     "path": "folders/Objects/Level Elements/Common/Hazards/Spikes.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "MovingSpikeTrap",
-  "tags": [],
-  "resourceType": "GMObject",
 }

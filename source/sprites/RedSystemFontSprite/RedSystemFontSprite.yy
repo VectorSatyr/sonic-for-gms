@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "RedSystemFontSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 8,
   "height": 8,
   "textureGroupId": {
@@ -24,129 +28,51 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"713db77e-d0b2-42d6-88de-0a1fb665f639","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"713db77e-d0b2-42d6-88de-0a1fb665f639","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"713db77e-d0b2-42d6-88de-0a1fb665f639","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a238ea28-3995-4654-b9f0-fd2d6a370528","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a238ea28-3995-4654-b9f0-fd2d6a370528","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"a238ea28-3995-4654-b9f0-fd2d6a370528","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0f5d1cc8-5324-4384-b1ca-dbf158540ad3","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0f5d1cc8-5324-4384-b1ca-dbf158540ad3","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"0f5d1cc8-5324-4384-b1ca-dbf158540ad3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"05c013f9-ac77-4772-8410-39968219a9b1","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"05c013f9-ac77-4772-8410-39968219a9b1","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"05c013f9-ac77-4772-8410-39968219a9b1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8909512f-798a-44f5-8915-52413421fd03","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8909512f-798a-44f5-8915-52413421fd03","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"8909512f-798a-44f5-8915-52413421fd03","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a3413648-9e41-4de7-9891-8e1bea8e1764","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a3413648-9e41-4de7-9891-8e1bea8e1764","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"a3413648-9e41-4de7-9891-8e1bea8e1764","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7f99bc71-736f-4103-935a-52cdbeec712b","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7f99bc71-736f-4103-935a-52cdbeec712b","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"7f99bc71-736f-4103-935a-52cdbeec712b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b7b8dd49-2263-4b04-b599-8165fb8edcd3","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b7b8dd49-2263-4b04-b599-8165fb8edcd3","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"b7b8dd49-2263-4b04-b599-8165fb8edcd3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"55bea406-22b1-4dd6-bfed-73b04ebea550","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"55bea406-22b1-4dd6-bfed-73b04ebea550","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"55bea406-22b1-4dd6-bfed-73b04ebea550","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"687ef184-8ad8-4b3e-9444-11bbb0e1d6aa","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"687ef184-8ad8-4b3e-9444-11bbb0e1d6aa","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"687ef184-8ad8-4b3e-9444-11bbb0e1d6aa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"35fe1f71-2c53-42cf-b271-7bd3e2888a4a","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"35fe1f71-2c53-42cf-b271-7bd3e2888a4a","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"35fe1f71-2c53-42cf-b271-7bd3e2888a4a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2164ebb5-a224-4f6c-a94d-5d963c31c592","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2164ebb5-a224-4f6c-a94d-5d963c31c592","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"2164ebb5-a224-4f6c-a94d-5d963c31c592","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1f6d2068-df49-49d1-b855-a6d5e71983ae","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1f6d2068-df49-49d1-b855-a6d5e71983ae","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"1f6d2068-df49-49d1-b855-a6d5e71983ae","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"63628ced-fef2-497b-98e6-3cb5f66b5467","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"63628ced-fef2-497b-98e6-3cb5f66b5467","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"63628ced-fef2-497b-98e6-3cb5f66b5467","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"86e67442-b110-4ead-adbf-b913805f0ba3","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"86e67442-b110-4ead-adbf-b913805f0ba3","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"86e67442-b110-4ead-adbf-b913805f0ba3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"afdeedb1-308c-4eff-98ff-c69423650fad","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"afdeedb1-308c-4eff-98ff-c69423650fad","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"afdeedb1-308c-4eff-98ff-c69423650fad","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6f73e0ea-9acb-476f-8216-935e324291bf","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6f73e0ea-9acb-476f-8216-935e324291bf","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"6f73e0ea-9acb-476f-8216-935e324291bf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"625826ff-bd15-4ecb-acff-54f29cea68ad","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"625826ff-bd15-4ecb-acff-54f29cea68ad","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"625826ff-bd15-4ecb-acff-54f29cea68ad","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d086d980-4c5f-4d6b-a3d0-0cbb9c22b08e","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d086d980-4c5f-4d6b-a3d0-0cbb9c22b08e","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"d086d980-4c5f-4d6b-a3d0-0cbb9c22b08e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e11d59c1-5efa-42a8-afe6-2eeac57eae40","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e11d59c1-5efa-42a8-afe6-2eeac57eae40","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"e11d59c1-5efa-42a8-afe6-2eeac57eae40","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7592c423-a045-4396-8949-4c08d31731a6","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7592c423-a045-4396-8949-4c08d31731a6","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"7592c423-a045-4396-8949-4c08d31731a6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1e8bca10-f10b-4f92-a7a3-14a8bf984ae2","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1e8bca10-f10b-4f92-a7a3-14a8bf984ae2","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"1e8bca10-f10b-4f92-a7a3-14a8bf984ae2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"284090e6-c0a2-4e62-895f-4e5074f4cb0e","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"284090e6-c0a2-4e62-895f-4e5074f4cb0e","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"284090e6-c0a2-4e62-895f-4e5074f4cb0e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b02f8ba9-41a1-40e0-8b6a-ffc7db807790","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b02f8ba9-41a1-40e0-8b6a-ffc7db807790","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"b02f8ba9-41a1-40e0-8b6a-ffc7db807790","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"92217e3a-5eb4-4481-ad04-28266effb9c6","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"92217e3a-5eb4-4481-ad04-28266effb9c6","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"92217e3a-5eb4-4481-ad04-28266effb9c6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"11556bcc-9d56-455c-91ec-9179915bd99c","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"11556bcc-9d56-455c-91ec-9179915bd99c","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"11556bcc-9d56-455c-91ec-9179915bd99c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2f173c5a-e5f8-4023-8621-02edc2a7fc10","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f173c5a-e5f8-4023-8621-02edc2a7fc10","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"2f173c5a-e5f8-4023-8621-02edc2a7fc10","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a57bc684-ae60-481d-ad15-0af0d185747d","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a57bc684-ae60-481d-ad15-0af0d185747d","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"a57bc684-ae60-481d-ad15-0af0d185747d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"447da77b-bc5d-4046-9952-67339e87bd3b","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"447da77b-bc5d-4046-9952-67339e87bd3b","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"447da77b-bc5d-4046-9952-67339e87bd3b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dec91a93-6d05-43ac-bf53-bc875c42c85f","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dec91a93-6d05-43ac-bf53-bc875c42c85f","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"dec91a93-6d05-43ac-bf53-bc875c42c85f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9c82c2d5-76dc-495b-92b9-d1dad11a2546","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9c82c2d5-76dc-495b-92b9-d1dad11a2546","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"9c82c2d5-76dc-495b-92b9-d1dad11a2546","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"69b723a5-30fb-433c-a98c-837d3bbd0735","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"69b723a5-30fb-433c-a98c-837d3bbd0735","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"69b723a5-30fb-433c-a98c-837d3bbd0735","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5bbd02f0-ea30-4b7a-84be-6379d7188398","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5bbd02f0-ea30-4b7a-84be-6379d7188398","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"5bbd02f0-ea30-4b7a-84be-6379d7188398","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"664e5197-d5f6-4f9c-a201-cb69d3d8f66a","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"664e5197-d5f6-4f9c-a201-cb69d3d8f66a","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"664e5197-d5f6-4f9c-a201-cb69d3d8f66a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1cc251f9-bb86-419f-bf88-6cfcaf4d7df8","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1cc251f9-bb86-419f-bf88-6cfcaf4d7df8","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"1cc251f9-bb86-419f-bf88-6cfcaf4d7df8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6deff00e-68c5-400c-a57b-e6434d63d32d","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6deff00e-68c5-400c-a57b-e6434d63d32d","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"6deff00e-68c5-400c-a57b-e6434d63d32d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8d6e7b94-be43-42fd-b088-c300c528b4c6","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8d6e7b94-be43-42fd-b088-c300c528b4c6","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"8d6e7b94-be43-42fd-b088-c300c528b4c6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ca9f2198-b07f-4439-9581-a9bf9bd015c9","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ca9f2198-b07f-4439-9581-a9bf9bd015c9","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"ca9f2198-b07f-4439-9581-a9bf9bd015c9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"574be776-98ab-4186-b3ef-2d3851746f62","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"574be776-98ab-4186-b3ef-2d3851746f62","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"574be776-98ab-4186-b3ef-2d3851746f62","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f29cfcfc-6421-4597-b0f4-b7c515e8683a","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f29cfcfc-6421-4597-b0f4-b7c515e8683a","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"LayerId":{"name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","name":"f29cfcfc-6421-4597-b0f4-b7c515e8683a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"713db77e-d0b2-42d6-88de-0a1fb665f639",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a238ea28-3995-4654-b9f0-fd2d6a370528",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0f5d1cc8-5324-4384-b1ca-dbf158540ad3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"05c013f9-ac77-4772-8410-39968219a9b1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8909512f-798a-44f5-8915-52413421fd03",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a3413648-9e41-4de7-9891-8e1bea8e1764",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7f99bc71-736f-4103-935a-52cdbeec712b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b7b8dd49-2263-4b04-b599-8165fb8edcd3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"55bea406-22b1-4dd6-bfed-73b04ebea550",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"687ef184-8ad8-4b3e-9444-11bbb0e1d6aa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"35fe1f71-2c53-42cf-b271-7bd3e2888a4a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2164ebb5-a224-4f6c-a94d-5d963c31c592",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1f6d2068-df49-49d1-b855-a6d5e71983ae",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"63628ced-fef2-497b-98e6-3cb5f66b5467",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"86e67442-b110-4ead-adbf-b913805f0ba3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"afdeedb1-308c-4eff-98ff-c69423650fad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6f73e0ea-9acb-476f-8216-935e324291bf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"625826ff-bd15-4ecb-acff-54f29cea68ad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d086d980-4c5f-4d6b-a3d0-0cbb9c22b08e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e11d59c1-5efa-42a8-afe6-2eeac57eae40",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7592c423-a045-4396-8949-4c08d31731a6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1e8bca10-f10b-4f92-a7a3-14a8bf984ae2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"284090e6-c0a2-4e62-895f-4e5074f4cb0e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b02f8ba9-41a1-40e0-8b6a-ffc7db807790",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"92217e3a-5eb4-4481-ad04-28266effb9c6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"11556bcc-9d56-455c-91ec-9179915bd99c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2f173c5a-e5f8-4023-8621-02edc2a7fc10",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a57bc684-ae60-481d-ad15-0af0d185747d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"447da77b-bc5d-4046-9952-67339e87bd3b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dec91a93-6d05-43ac-bf53-bc875c42c85f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9c82c2d5-76dc-495b-92b9-d1dad11a2546",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"69b723a5-30fb-433c-a98c-837d3bbd0735",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5bbd02f0-ea30-4b7a-84be-6379d7188398",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"664e5197-d5f6-4f9c-a201-cb69d3d8f66a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1cc251f9-bb86-419f-bf88-6cfcaf4d7df8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6deff00e-68c5-400c-a57b-e6434d63d32d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8d6e7b94-be43-42fd-b088-c300c528b4c6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ca9f2198-b07f-4439-9581-a9bf9bd015c9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"574be776-98ab-4186-b3ef-2d3851746f62",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f29cfcfc-6421-4597-b0f4-b7c515e8683a",},
   ],
   "sequence": {
-    "spriteId": {"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -157,7 +83,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c175f307-a439-4943-9c78-52faa4561245","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"713db77e-d0b2-42d6-88de-0a1fb665f639","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"cf14970e-b241-47af-a05e-76d6a8e91a52","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a238ea28-3995-4654-b9f0-fd2d6a370528","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"da0db9aa-2ab9-4ef6-9cb4-9d41cc6221b0","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0f5d1cc8-5324-4384-b1ca-dbf158540ad3","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -198,7 +124,7 @@
             {"id":"08d51e5f-6f39-4b64-89ec-88eb84050501","Key":37.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ca9f2198-b07f-4439-9581-a9bf9bd015c9","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"52e3c866-7bbb-4fe3-a9ba-8da1d63d9cd2","Key":38.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"574be776-98ab-4186-b3ef-2d3851746f62","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3ebb4476-c87f-4e6f-9a80-ddcac134777d","Key":39.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f29cfcfc-6421-4597-b0f4-b7c515e8683a","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -214,21 +140,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"RedSystemFontSprite","path":"sprites/RedSystemFontSprite/RedSystemFontSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"af64c9f1-ba80-4d1c-a08e-b8c1841abf85","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Fonts",
     "path": "folders/Sprites/UI Elements/Fonts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "RedSystemFontSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

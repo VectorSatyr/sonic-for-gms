@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "BossEggMobileFlame",
   "spriteId": null,
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -27,8 +31,4 @@
     "name": "Egg Mobile",
     "path": "folders/Objects/Level Elements/Common/Hazards/Bosses/Egg Mobile.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "BossEggMobileFlame",
-  "tags": [],
-  "resourceType": "GMObject",
 }

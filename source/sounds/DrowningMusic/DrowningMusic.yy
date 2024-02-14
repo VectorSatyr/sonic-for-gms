@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "DrowningMusic",
+  "conversionMode": 0,
   "compression": 3,
   "volume": 1.0,
   "preload": true,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "DrowningMusic",
-  "duration": 12.2825508,
+  "duration": 12.282551,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/Background Music/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DrowningMusic",
-  "tags": [],
-  "resourceType": "GMSound",
 }

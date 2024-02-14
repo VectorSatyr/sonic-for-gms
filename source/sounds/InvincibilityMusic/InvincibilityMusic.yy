@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "InvincibilityMusic",
+  "conversionMode": 0,
   "compression": 3,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "InvincibilityMusic",
-  "duration": 22.1489239,
+  "duration": 22.148924,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/Background Music/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "InvincibilityMusic",
-  "tags": [],
-  "resourceType": "GMSound",
 }

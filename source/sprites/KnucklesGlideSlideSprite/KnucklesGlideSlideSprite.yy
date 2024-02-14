@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "KnucklesGlideSlideSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 54,
   "height": 19,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9d639c32-13a6-4003-8e1b-b711c6717a84","path":"sprites/KnucklesGlideSlideSprite/KnucklesGlideSlideSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9d639c32-13a6-4003-8e1b-b711c6717a84","path":"sprites/KnucklesGlideSlideSprite/KnucklesGlideSlideSprite.yy",},"LayerId":{"name":"22db443e-cdde-4a0c-9787-6605e9eb3e05","path":"sprites/KnucklesGlideSlideSprite/KnucklesGlideSlideSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KnucklesGlideSlideSprite","path":"sprites/KnucklesGlideSlideSprite/KnucklesGlideSlideSprite.yy",},"resourceVersion":"1.0","name":"9d639c32-13a6-4003-8e1b-b711c6717a84","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9d639c32-13a6-4003-8e1b-b711c6717a84",},
   ],
   "sequence": {
-    "spriteId": {"name":"KnucklesGlideSlideSprite","path":"sprites/KnucklesGlideSlideSprite/KnucklesGlideSlideSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"1f7aa015-0e64-490b-9b0c-f31f9ed3b17c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d639c32-13a6-4003-8e1b-b711c6717a84","path":"sprites/KnucklesGlideSlideSprite/KnucklesGlideSlideSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -58,21 +62,13 @@
     "yorigin": 5,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"KnucklesGlideSlideSprite","path":"sprites/KnucklesGlideSlideSprite/KnucklesGlideSlideSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"22db443e-cdde-4a0c-9787-6605e9eb3e05","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"22db443e-cdde-4a0c-9787-6605e9eb3e05","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Knuckles",
     "path": "folders/Sprites/Level Elements/Player/Characters/Knuckles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "KnucklesGlideSlideSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

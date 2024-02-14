@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "AquaShieldShellSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 48,
   "height": 48,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"413773be-4c54-4c8d-bd55-acf33624777f","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"413773be-4c54-4c8d-bd55-acf33624777f","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"LayerId":{"name":"3fc178d0-8b8b-4e59-8d4d-d966bb7f16a8","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldShellSprite","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"resourceVersion":"1.0","name":"413773be-4c54-4c8d-bd55-acf33624777f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4004ab32-ae89-410f-9c86-46fbaefe1de3","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4004ab32-ae89-410f-9c86-46fbaefe1de3","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"LayerId":{"name":"3fc178d0-8b8b-4e59-8d4d-d966bb7f16a8","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldShellSprite","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"resourceVersion":"1.0","name":"4004ab32-ae89-410f-9c86-46fbaefe1de3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"413773be-4c54-4c8d-bd55-acf33624777f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4004ab32-ae89-410f-9c86-46fbaefe1de3",},
   ],
   "sequence": {
-    "spriteId": {"name":"AquaShieldShellSprite","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"57e0bf9c-9077-49da-a575-f5f21e81ddcd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"413773be-4c54-4c8d-bd55-acf33624777f","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b96c8d86-5056-4da5-8cc6-efaa6b365a06","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4004ab32-ae89-410f-9c86-46fbaefe1de3","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,21 +64,13 @@
     "yorigin": 24,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"AquaShieldShellSprite","path":"sprites/AquaShieldShellSprite/AquaShieldShellSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3fc178d0-8b8b-4e59-8d4d-d966bb7f16a8","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3fc178d0-8b8b-4e59-8d4d-d966bb7f16a8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Shields",
     "path": "folders/Sprites/Level Elements/Player/Shields.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "AquaShieldShellSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

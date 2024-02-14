@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "AquaShieldBounceSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 72,
   "height": 48,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f66e0a79-244e-45fe-a903-c0378ceac273","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f66e0a79-244e-45fe-a903-c0378ceac273","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"LayerId":{"name":"025e2e4e-b3e0-4a6c-a14b-3e46a8c04adc","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldBounceSprite","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","name":"f66e0a79-244e-45fe-a903-c0378ceac273","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0a7d25b7-33c4-4a9a-9ac5-27da2ac6a43d","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0a7d25b7-33c4-4a9a-9ac5-27da2ac6a43d","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"LayerId":{"name":"025e2e4e-b3e0-4a6c-a14b-3e46a8c04adc","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldBounceSprite","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","name":"0a7d25b7-33c4-4a9a-9ac5-27da2ac6a43d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"19aafd15-85fa-4c3b-b07a-a11c35ce3368","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"19aafd15-85fa-4c3b-b07a-a11c35ce3368","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"LayerId":{"name":"025e2e4e-b3e0-4a6c-a14b-3e46a8c04adc","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldBounceSprite","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","name":"19aafd15-85fa-4c3b-b07a-a11c35ce3368","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f66e0a79-244e-45fe-a903-c0378ceac273",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0a7d25b7-33c4-4a9a-9ac5-27da2ac6a43d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"19aafd15-85fa-4c3b-b07a-a11c35ce3368",},
   ],
   "sequence": {
-    "spriteId": {"name":"AquaShieldBounceSprite","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"2ed400f8-9cb8-4924-91d5-c42bf4105523","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f66e0a79-244e-45fe-a903-c0378ceac273","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8e9fb08c-9d8b-4723-8b67-e537bba8f909","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0a7d25b7-33c4-4a9a-9ac5-27da2ac6a43d","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"dfe2472d-63f0-4979-a30d-68089764523f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"19aafd15-85fa-4c3b-b07a-a11c35ce3368","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,21 +66,13 @@
     "yorigin": 24,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"AquaShieldBounceSprite","path":"sprites/AquaShieldBounceSprite/AquaShieldBounceSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"025e2e4e-b3e0-4a6c-a14b-3e46a8c04adc","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"025e2e4e-b3e0-4a6c-a14b-3e46a8c04adc","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Shields",
     "path": "folders/Sprites/Level Elements/Player/Shields.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "AquaShieldBounceSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "CreditsMusic",
+  "conversionMode": 0,
   "compression": 3,
   "volume": 1.0,
   "preload": true,
@@ -16,8 +20,4 @@
     "name": "General",
     "path": "folders/Sounds/Background Music/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "CreditsMusic",
-  "tags": [],
-  "resourceType": "GMSound",
 }

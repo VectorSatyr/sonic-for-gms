@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "GlowingSpheresForcedExit",
   "spriteId": null,
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -18,8 +22,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"GlowingSpheresForcedExit","path":"objects/GlowingSpheresForcedExit/GlowingSpheresForcedExit.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"GlowingSpheresForcedExit","path":"objects/GlowingSpheresForcedExit/GlowingSpheresForcedExit.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -27,8 +31,4 @@
     "name": "Objects",
     "path": "folders/Objects/Level Elements/Common/Bonus Stage/Glowing Spheres/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GlowingSpheresForcedExit",
-  "tags": [],
-  "resourceType": "GMObject",
 }

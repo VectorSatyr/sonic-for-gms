@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "RedDiagonalSpring",
   "spriteId": {
     "name": "DiagonalRedSpringSprite",
     "path": "sprites/DiagonalRedSpringSprite/DiagonalRedSpringSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -26,14 +30,10 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"force","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"objectId":{"name":"DiagonalSpring","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"value":"16","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"force","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"objectId":{"name":"DiagonalSpring","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"value":"16",},
   ],
   "parent": {
     "name": "Diagonal",
     "path": "folders/Objects/Level Elements/Common/Springs/Diagonal.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "RedDiagonalSpring",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "SuperFormSparkSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 48,
   "height": 48,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4746222e-5a63-4d23-ae4b-87518a2d85b7","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4746222e-5a63-4d23-ae4b-87518a2d85b7","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"LayerId":{"name":"4488834f-eaab-4e90-b268-f17bfe77db7c","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SuperFormSparkSprite","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","name":"4746222e-5a63-4d23-ae4b-87518a2d85b7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c9b5a8d3-73d4-42df-8c7e-89551d0b9252","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c9b5a8d3-73d4-42df-8c7e-89551d0b9252","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"LayerId":{"name":"4488834f-eaab-4e90-b268-f17bfe77db7c","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SuperFormSparkSprite","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","name":"c9b5a8d3-73d4-42df-8c7e-89551d0b9252","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5390788c-c47c-4b3d-922f-bcdfea7b844f","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5390788c-c47c-4b3d-922f-bcdfea7b844f","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"LayerId":{"name":"4488834f-eaab-4e90-b268-f17bfe77db7c","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SuperFormSparkSprite","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","name":"5390788c-c47c-4b3d-922f-bcdfea7b844f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4746222e-5a63-4d23-ae4b-87518a2d85b7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c9b5a8d3-73d4-42df-8c7e-89551d0b9252",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5390788c-c47c-4b3d-922f-bcdfea7b844f",},
   ],
   "sequence": {
-    "spriteId": {"name":"SuperFormSparkSprite","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"ac166ad6-229a-4dea-b824-7dd0d0630ca4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4746222e-5a63-4d23-ae4b-87518a2d85b7","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9c928392-9d46-4ebf-bae1-30e10eb2cc4e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c9b5a8d3-73d4-42df-8c7e-89551d0b9252","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"36754106-2c0a-4cfb-890b-37dd0e0ced08","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5390788c-c47c-4b3d-922f-bcdfea7b844f","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,21 +66,13 @@
     "yorigin": 24,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"SuperFormSparkSprite","path":"sprites/SuperFormSparkSprite/SuperFormSparkSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4488834f-eaab-4e90-b268-f17bfe77db7c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4488834f-eaab-4e90-b268-f17bfe77db7c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Effects",
     "path": "folders/Sprites/Level Elements/Player/Effects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "SuperFormSparkSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "ChingSound",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -16,8 +20,4 @@
     "name": "Common",
     "path": "folders/Sounds/Sound Effects/Levels/Common.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ChingSound",
-  "tags": [],
-  "resourceType": "GMSound",
 }

@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "RedSpring",
   "spriteId": {
     "name": "RedSpringSprite",
     "path": "sprites/RedSpringSprite/RedSpringSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -26,14 +30,10 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"force","path":"objects/Spring/Spring.yy",},"objectId":{"name":"Spring","path":"objects/Spring/Spring.yy",},"value":"16","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"force","path":"objects/Spring/Spring.yy",},"objectId":{"name":"Spring","path":"objects/Spring/Spring.yy",},"value":"16",},
   ],
   "parent": {
     "name": "Straight",
     "path": "folders/Objects/Level Elements/Common/Springs/Straight.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "RedSpring",
-  "tags": [],
-  "resourceType": "GMObject",
 }

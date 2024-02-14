@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "CustomTerrain1",
   "spriteId": {
     "name": "Custom1MaskSprite",
     "path": "sprites/Custom1MaskSprite/Custom1MaskSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"CustomTerrain1","path":"objects/CustomTerrain1/CustomTerrain1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "Terrain Shapes",
     "path": "folders/Objects/Level Elements/Demo Zone/Terrain/Terrain Shapes.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "CustomTerrain1",
-  "tags": [],
-  "resourceType": "GMObject",
 }

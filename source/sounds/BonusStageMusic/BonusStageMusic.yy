@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "BonusStageMusic",
+  "conversionMode": 0,
   "compression": 2,
   "volume": 1.0,
   "preload": false,
@@ -16,8 +20,4 @@
     "name": "General",
     "path": "folders/Sounds/Background Music/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "BonusStageMusic",
-  "tags": [],
-  "resourceType": "GMSound",
 }

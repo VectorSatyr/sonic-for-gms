@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "SonicReverseFlipSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 40,
   "textureGroupId": {
@@ -24,45 +28,23 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"98c9f810-f19d-47ab-9ea0-1c381525cfbf","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"98c9f810-f19d-47ab-9ea0-1c381525cfbf","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"98c9f810-f19d-47ab-9ea0-1c381525cfbf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9d63c7d6-7d3f-4ef0-9be9-291755afbf96","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9d63c7d6-7d3f-4ef0-9be9-291755afbf96","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"9d63c7d6-7d3f-4ef0-9be9-291755afbf96","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9dd80220-9770-4132-8c8a-8ecca4ac3edb","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9dd80220-9770-4132-8c8a-8ecca4ac3edb","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"9dd80220-9770-4132-8c8a-8ecca4ac3edb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bf1a3201-8794-4f1b-a68f-851b31997f68","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bf1a3201-8794-4f1b-a68f-851b31997f68","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"bf1a3201-8794-4f1b-a68f-851b31997f68","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"17972bda-b665-481e-9b82-a123a2fa615e","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"17972bda-b665-481e-9b82-a123a2fa615e","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"17972bda-b665-481e-9b82-a123a2fa615e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"539672a3-5153-492f-a6f2-5f44e557a6c6","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"539672a3-5153-492f-a6f2-5f44e557a6c6","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"539672a3-5153-492f-a6f2-5f44e557a6c6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fe065ea8-81e2-4779-a053-fb2ddd35c74c","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fe065ea8-81e2-4779-a053-fb2ddd35c74c","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"fe065ea8-81e2-4779-a053-fb2ddd35c74c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1059403a-5233-4f1c-90c1-40da3fccedcb","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1059403a-5233-4f1c-90c1-40da3fccedcb","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"1059403a-5233-4f1c-90c1-40da3fccedcb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6112c008-7f42-42d3-9ed2-93695ce6ed7f","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6112c008-7f42-42d3-9ed2-93695ce6ed7f","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"6112c008-7f42-42d3-9ed2-93695ce6ed7f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5620eee7-4bf3-4df1-a0ec-a8211ee63d0f","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5620eee7-4bf3-4df1-a0ec-a8211ee63d0f","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"5620eee7-4bf3-4df1-a0ec-a8211ee63d0f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d31fd835-cbf6-443b-b62b-58e392d00c10","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d31fd835-cbf6-443b-b62b-58e392d00c10","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"d31fd835-cbf6-443b-b62b-58e392d00c10","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fa0891ba-0997-4529-aaf0-765f013efb9d","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fa0891ba-0997-4529-aaf0-765f013efb9d","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"LayerId":{"name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","name":"fa0891ba-0997-4529-aaf0-765f013efb9d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"98c9f810-f19d-47ab-9ea0-1c381525cfbf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9d63c7d6-7d3f-4ef0-9be9-291755afbf96",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9dd80220-9770-4132-8c8a-8ecca4ac3edb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf1a3201-8794-4f1b-a68f-851b31997f68",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"17972bda-b665-481e-9b82-a123a2fa615e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"539672a3-5153-492f-a6f2-5f44e557a6c6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fe065ea8-81e2-4779-a053-fb2ddd35c74c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1059403a-5233-4f1c-90c1-40da3fccedcb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6112c008-7f42-42d3-9ed2-93695ce6ed7f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5620eee7-4bf3-4df1-a0ec-a8211ee63d0f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d31fd835-cbf6-443b-b62b-58e392d00c10",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa0891ba-0997-4529-aaf0-765f013efb9d",},
   ],
   "sequence": {
-    "spriteId": {"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -73,7 +55,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"b5c66f82-3525-4568-8d2c-2e96efc0ce7c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"98c9f810-f19d-47ab-9ea0-1c381525cfbf","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"428d2299-feb4-4a3f-926d-a266a8fc426e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d63c7d6-7d3f-4ef0-9be9-291755afbf96","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f7c58859-16ba-4f38-864c-2b207588aad7","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9dd80220-9770-4132-8c8a-8ecca4ac3edb","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -86,7 +68,7 @@
             {"id":"51a10fba-af86-4ada-8938-fd39e3748435","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5620eee7-4bf3-4df1-a0ec-a8211ee63d0f","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"341d8562-6387-4d89-8c64-4ed1e6d0c4b2","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d31fd835-cbf6-443b-b62b-58e392d00c10","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"bddaff59-491f-4891-8f5c-ed3fd72da6d5","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa0891ba-0997-4529-aaf0-765f013efb9d","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -102,21 +84,13 @@
     "yorigin": 19,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"SonicReverseFlipSprite","path":"sprites/SonicReverseFlipSprite/SonicReverseFlipSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3907f409-3590-4a25-a8b1-ff6a3ad32b07","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "General",
     "path": "folders/Sprites/Level Elements/Player/Characters/Sonic/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "SonicReverseFlipSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

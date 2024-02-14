@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "BeepSound",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -16,8 +20,4 @@
     "name": "General",
     "path": "folders/Sounds/Sound Effects/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "BeepSound",
-  "tags": [],
-  "resourceType": "GMSound",
 }

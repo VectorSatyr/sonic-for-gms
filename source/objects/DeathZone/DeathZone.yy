@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "DeathZone",
   "spriteId": {
     "name": "ActiveRegionMaskSprite",
     "path": "sprites/ActiveRegionMaskSprite/ActiveRegionMaskSprite.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "Fields",
     "path": "folders/Objects/Level Elements/Common/Fields.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DeathZone",
-  "tags": [],
-  "resourceType": "GMObject",
 }

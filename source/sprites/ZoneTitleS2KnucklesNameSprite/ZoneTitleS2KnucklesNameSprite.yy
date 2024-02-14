@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "ZoneTitleS2KnucklesNameSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 152,
   "height": 5,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9909dad1-b3b4-4646-86e6-b761cfd73c20","path":"sprites/ZoneTitleS2KnucklesNameSprite/ZoneTitleS2KnucklesNameSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9909dad1-b3b4-4646-86e6-b761cfd73c20","path":"sprites/ZoneTitleS2KnucklesNameSprite/ZoneTitleS2KnucklesNameSprite.yy",},"LayerId":{"name":"89ef8edf-5e97-4654-a6c8-6c836866775c","path":"sprites/ZoneTitleS2KnucklesNameSprite/ZoneTitleS2KnucklesNameSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"ZoneTitleS2KnucklesNameSprite","path":"sprites/ZoneTitleS2KnucklesNameSprite/ZoneTitleS2KnucklesNameSprite.yy",},"resourceVersion":"1.0","name":"9909dad1-b3b4-4646-86e6-b761cfd73c20","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9909dad1-b3b4-4646-86e6-b761cfd73c20",},
   ],
   "sequence": {
-    "spriteId": {"name":"ZoneTitleS2KnucklesNameSprite","path":"sprites/ZoneTitleS2KnucklesNameSprite/ZoneTitleS2KnucklesNameSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"cbd6260e-56dc-4a55-80eb-6abb02058f07","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9909dad1-b3b4-4646-86e6-b761cfd73c20","path":"sprites/ZoneTitleS2KnucklesNameSprite/ZoneTitleS2KnucklesNameSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -58,21 +62,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"ZoneTitleS2KnucklesNameSprite","path":"sprites/ZoneTitleS2KnucklesNameSprite/ZoneTitleS2KnucklesNameSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"89ef8edf-5e97-4654-a6c8-6c836866775c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"89ef8edf-5e97-4654-a6c8-6c836866775c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Zone Title",
     "path": "folders/Sprites/UI Elements/Zone Title.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ZoneTitleS2KnucklesNameSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

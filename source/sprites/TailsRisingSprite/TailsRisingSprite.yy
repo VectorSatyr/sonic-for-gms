@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "TailsRisingSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 24,
   "height": 47,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"145c3b1a-6a17-474a-9467-1c8e0e5e0954","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"145c3b1a-6a17-474a-9467-1c8e0e5e0954","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"LayerId":{"name":"f237b9d1-e55a-4112-b78d-b3463e5e0e87","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"TailsRisingSprite","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"resourceVersion":"1.0","name":"145c3b1a-6a17-474a-9467-1c8e0e5e0954","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"667b902a-96b8-45b7-a929-001b971309f4","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"667b902a-96b8-45b7-a929-001b971309f4","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"LayerId":{"name":"f237b9d1-e55a-4112-b78d-b3463e5e0e87","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"TailsRisingSprite","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"resourceVersion":"1.0","name":"667b902a-96b8-45b7-a929-001b971309f4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"145c3b1a-6a17-474a-9467-1c8e0e5e0954",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"667b902a-96b8-45b7-a929-001b971309f4",},
   ],
   "sequence": {
-    "spriteId": {"name":"TailsRisingSprite","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c03b22bc-5418-45de-ae0a-84dbd80cca65","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"145c3b1a-6a17-474a-9467-1c8e0e5e0954","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"41cc5a00-9243-455f-861c-5b9ca3d37717","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"667b902a-96b8-45b7-a929-001b971309f4","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,21 +64,13 @@
     "yorigin": 23,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"TailsRisingSprite","path":"sprites/TailsRisingSprite/TailsRisingSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f237b9d1-e55a-4112-b78d-b3463e5e0e87","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f237b9d1-e55a-4112-b78d-b3463e5e0e87","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "General",
     "path": "folders/Sprites/Level Elements/Player/Characters/Tails/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TailsRisingSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "TailsFlightFallSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 38,
   "height": 32,
   "textureGroupId": {
@@ -24,21 +28,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"12e6e93b-756a-487b-a041-5c564058803a","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"12e6e93b-756a-487b-a041-5c564058803a","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":{"name":"940aed1f-525c-452d-8ab2-6da85c386f4b","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"TailsFlightFallSprite","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"12e6e93b-756a-487b-a041-5c564058803a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0703cec8-438c-4bfc-94e6-ce012b0ed566","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0703cec8-438c-4bfc-94e6-ce012b0ed566","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":{"name":"940aed1f-525c-452d-8ab2-6da85c386f4b","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"TailsFlightFallSprite","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"0703cec8-438c-4bfc-94e6-ce012b0ed566","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cfb3159f-018f-4a38-989c-a089d6fb1b1d","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cfb3159f-018f-4a38-989c-a089d6fb1b1d","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":{"name":"940aed1f-525c-452d-8ab2-6da85c386f4b","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"TailsFlightFallSprite","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"cfb3159f-018f-4a38-989c-a089d6fb1b1d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"25f93ac5-af94-47c2-8737-25dc7ed7d790","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"25f93ac5-af94-47c2-8737-25dc7ed7d790","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"LayerId":{"name":"940aed1f-525c-452d-8ab2-6da85c386f4b","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"TailsFlightFallSprite","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","name":"25f93ac5-af94-47c2-8737-25dc7ed7d790","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"12e6e93b-756a-487b-a041-5c564058803a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0703cec8-438c-4bfc-94e6-ce012b0ed566",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cfb3159f-018f-4a38-989c-a089d6fb1b1d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"25f93ac5-af94-47c2-8737-25dc7ed7d790",},
   ],
   "sequence": {
-    "spriteId": {"name":"TailsFlightFallSprite","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,12 +47,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3ba40e7f-337f-4af0-a89c-356aa13441b0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"12e6e93b-756a-487b-a041-5c564058803a","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"275f45b0-aa4c-4a72-8c0a-c1ac48ab8836","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0703cec8-438c-4bfc-94e6-ce012b0ed566","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"66dd1ac9-f2f2-43b0-b43a-3f57db7119ef","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cfb3159f-018f-4a38-989c-a089d6fb1b1d","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f73d7872-f119-4314-ac17-e9b8fedefff7","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"25f93ac5-af94-47c2-8737-25dc7ed7d790","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -70,21 +68,13 @@
     "yorigin": 20,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"TailsFlightFallSprite","path":"sprites/TailsFlightFallSprite/TailsFlightFallSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"940aed1f-525c-452d-8ab2-6da85c386f4b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"940aed1f-525c-452d-8ab2-6da85c386f4b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "General",
     "path": "folders/Sprites/Level Elements/Player/Characters/Tails/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TailsFlightFallSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

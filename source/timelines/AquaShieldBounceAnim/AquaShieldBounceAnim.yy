@@ -1,14 +1,13 @@
 {
+  "resourceType": "GMTimeline",
+  "resourceVersion": "1.0",
+  "name": "AquaShieldBounceAnim",
   "momentList": [
-    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"AquaShieldBounceAnim","path":"timelines/AquaShieldBounceAnim/AquaShieldBounceAnim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":6,"evnt":{"isDnD":false,"eventNum":6,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"AquaShieldBounceAnim","path":"timelines/AquaShieldBounceAnim/AquaShieldBounceAnim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":0,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":6,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":6,"eventType":0,"collisionObjectId":null,},},
   ],
   "parent": {
     "name": "Shields",
     "path": "folders/Timelines/Animations/Level Elements/Player/Shields.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "AquaShieldBounceAnim",
-  "tags": [],
-  "resourceType": "GMTimeline",
 }

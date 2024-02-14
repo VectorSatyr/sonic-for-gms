@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "GHZBossChainLink",
   "spriteId": {
     "name": "GHZBossChainLinkSprite",
     "path": "sprites/GHZBossChainLinkSprite/GHZBossChainLinkSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,8 +28,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"GHZBossChainLink","path":"objects/GHZBossChainLink/GHZBossChainLink.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"GHZBossChainLink","path":"objects/GHZBossChainLink/GHZBossChainLink.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,8 +37,4 @@
     "name": "GHZ Boss",
     "path": "folders/Objects/Level Elements/Demo Zone/Hazards/GHZ Boss.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GHZBossChainLink",
-  "tags": [],
-  "resourceType": "GMObject",
 }

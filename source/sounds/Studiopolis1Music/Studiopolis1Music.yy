@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "Studiopolis1Music",
+  "conversionMode": 0,
   "compression": 2,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "Studiopolis1Music",
-  "duration": 187.250717,
+  "duration": 187.25072,
   "parent": {
     "name": "Levels",
     "path": "folders/Sounds/Background Music/Levels.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Studiopolis1Music",
-  "tags": [],
-  "resourceType": "GMSound",
 }

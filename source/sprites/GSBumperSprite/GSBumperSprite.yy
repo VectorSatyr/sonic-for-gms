@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "GSBumperSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 36,
   "height": 36,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0ea47062-98ce-4356-8082-504bd782e974","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0ea47062-98ce-4356-8082-504bd782e974","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"LayerId":{"name":"bb89bbad-f7af-4f8c-9d81-e9e37bf6830e","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GSBumperSprite","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"resourceVersion":"1.0","name":"0ea47062-98ce-4356-8082-504bd782e974","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0dbb9ef2-1ea2-4934-8a25-a01e4f777a02","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0dbb9ef2-1ea2-4934-8a25-a01e4f777a02","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"LayerId":{"name":"bb89bbad-f7af-4f8c-9d81-e9e37bf6830e","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GSBumperSprite","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"resourceVersion":"1.0","name":"0dbb9ef2-1ea2-4934-8a25-a01e4f777a02","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0ea47062-98ce-4356-8082-504bd782e974",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0dbb9ef2-1ea2-4934-8a25-a01e4f777a02",},
   ],
   "sequence": {
-    "spriteId": {"name":"GSBumperSprite","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"6381e087-a94d-4c85-9e8e-d92c0eb5cd7b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0ea47062-98ce-4356-8082-504bd782e974","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f01a1b75-adce-475e-80c5-f0feb91b223c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0dbb9ef2-1ea2-4934-8a25-a01e4f777a02","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,21 +64,13 @@
     "yorigin": 18,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"GSBumperSprite","path":"sprites/GSBumperSprite/GSBumperSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bb89bbad-f7af-4f8c-9d81-e9e37bf6830e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bb89bbad-f7af-4f8c-9d81-e9e37bf6830e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Objects",
     "path": "folders/Sprites/Level Elements/Bonus Stage/Glowing Spheres/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GSBumperSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

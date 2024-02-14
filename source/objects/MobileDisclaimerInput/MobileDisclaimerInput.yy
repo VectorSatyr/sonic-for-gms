@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "MobileDisclaimerInput",
   "spriteId": null,
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": {
     "name": "LegalDisclaimerTouchSprite",
     "path": "sprites/LegalDisclaimerTouchSprite/LegalDisclaimerTouchSprite.yy",
@@ -21,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,"parent":{"name":"MobileDisclaimerInput","path":"objects/MobileDisclaimerInput/MobileDisclaimerInput.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -29,8 +33,4 @@
     "name": "Title Screen",
     "path": "folders/Objects/UI Elements/Presentations/Title Screen.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "MobileDisclaimerInput",
-  "tags": [],
-  "resourceType": "GMObject",
 }

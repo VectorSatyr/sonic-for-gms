@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "ContinueSonicIconSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 16,
   "height": 23,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"30c9c4a1-c3b6-432b-9832-b7ba34a5bb2c","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"30c9c4a1-c3b6-432b-9832-b7ba34a5bb2c","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"LayerId":{"name":"3b0cd7f0-584c-427a-a87d-0deae7b0e0d2","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"ContinueSonicIconSprite","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"resourceVersion":"1.0","name":"30c9c4a1-c3b6-432b-9832-b7ba34a5bb2c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9ad404a1-1618-4713-9b8a-ee466a106d6e","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ad404a1-1618-4713-9b8a-ee466a106d6e","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"LayerId":{"name":"3b0cd7f0-584c-427a-a87d-0deae7b0e0d2","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"ContinueSonicIconSprite","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"resourceVersion":"1.0","name":"9ad404a1-1618-4713-9b8a-ee466a106d6e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"30c9c4a1-c3b6-432b-9832-b7ba34a5bb2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ad404a1-1618-4713-9b8a-ee466a106d6e",},
   ],
   "sequence": {
-    "spriteId": {"name":"ContinueSonicIconSprite","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"94cb3427-6aa4-4efb-bf0f-60187069cc8f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"30c9c4a1-c3b6-432b-9832-b7ba34a5bb2c","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8e568e2f-5223-4f97-90d8-0ad5fde23c02","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9ad404a1-1618-4713-9b8a-ee466a106d6e","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,21 +64,13 @@
     "yorigin": 1,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"ContinueSonicIconSprite","path":"sprites/ContinueSonicIconSprite/ContinueSonicIconSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3b0cd7f0-584c-427a-a87d-0deae7b0e0d2","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3b0cd7f0-584c-427a-a87d-0deae7b0e0d2","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Continue",
     "path": "folders/Sprites/UI Elements/Continue.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ContinueSonicIconSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

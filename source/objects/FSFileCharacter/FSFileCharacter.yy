@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "FSFileCharacter",
   "spriteId": {
     "name": "FileSelectMenuFileCharacterSprite",
     "path": "sprites/FileSelectMenuFileCharacterSprite/FileSelectMenuFileCharacterSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"FSFileCharacter","path":"objects/FSFileCharacter/FSFileCharacter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -29,8 +33,4 @@
     "name": "Elements",
     "path": "folders/Objects/UI Elements/Menus/File Select/Choices/Elements.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "FSFileCharacter",
-  "tags": [],
-  "resourceType": "GMObject",
 }

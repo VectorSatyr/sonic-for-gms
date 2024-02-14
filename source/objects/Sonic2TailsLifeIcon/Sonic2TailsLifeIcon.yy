@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Sonic2TailsLifeIcon",
   "spriteId": {
     "name": "HUDTailsLifeIconSprite",
     "path": "sprites/HUDTailsLifeIconSprite/HUDTailsLifeIconSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "Life Icons",
     "path": "folders/Objects/UI Elements/Signs/HUD/Life Icons.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Sonic2TailsLifeIcon",
-  "tags": [],
-  "resourceType": "GMObject",
 }

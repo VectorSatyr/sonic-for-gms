@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "YellowDiagonalSpring",
   "spriteId": {
     "name": "DiagonalYellowSpringSprite",
     "path": "sprites/DiagonalYellowSpringSprite/DiagonalYellowSpringSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -26,14 +30,10 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"force","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"objectId":{"name":"DiagonalSpring","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"force","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"objectId":{"name":"DiagonalSpring","path":"objects/DiagonalSpring/DiagonalSpring.yy",},"value":"10",},
   ],
   "parent": {
     "name": "Diagonal",
     "path": "folders/Objects/Level Elements/Common/Springs/Diagonal.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YellowDiagonalSpring",
-  "tags": [],
-  "resourceType": "GMObject",
 }

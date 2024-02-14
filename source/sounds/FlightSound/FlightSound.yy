@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "FlightSound",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -16,8 +20,4 @@
     "name": "Tails",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Tails.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "FlightSound",
-  "tags": [],
-  "resourceType": "GMSound",
 }

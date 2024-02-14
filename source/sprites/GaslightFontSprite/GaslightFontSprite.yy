@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "GaslightFontSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 20,
   "height": 16,
   "textureGroupId": {
@@ -24,90 +28,38 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ccaad393-5b98-4b30-b040-c8528828b791","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ccaad393-5b98-4b30-b040-c8528828b791","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"ccaad393-5b98-4b30-b040-c8528828b791","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"72e1c06b-e220-4a74-9095-a764eefc2733","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"72e1c06b-e220-4a74-9095-a764eefc2733","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"72e1c06b-e220-4a74-9095-a764eefc2733","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"57eadcd5-16a3-4bc6-99fb-a975978aceef","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"57eadcd5-16a3-4bc6-99fb-a975978aceef","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"57eadcd5-16a3-4bc6-99fb-a975978aceef","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"84838ef7-4ea2-436c-908d-de08160c08d2","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"84838ef7-4ea2-436c-908d-de08160c08d2","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"84838ef7-4ea2-436c-908d-de08160c08d2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9798cfed-d53d-4032-8e87-07075dee423c","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9798cfed-d53d-4032-8e87-07075dee423c","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"9798cfed-d53d-4032-8e87-07075dee423c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e489449f-8172-4b86-ab1b-518859cd87bf","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e489449f-8172-4b86-ab1b-518859cd87bf","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"e489449f-8172-4b86-ab1b-518859cd87bf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"79f66615-9141-466c-b2f1-be71beb9cbd8","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"79f66615-9141-466c-b2f1-be71beb9cbd8","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"79f66615-9141-466c-b2f1-be71beb9cbd8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f3eadf57-467a-4fab-8ed0-9461839c1b0d","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f3eadf57-467a-4fab-8ed0-9461839c1b0d","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"f3eadf57-467a-4fab-8ed0-9461839c1b0d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f0dfe9d7-56eb-45c7-b8ed-76ad01364250","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f0dfe9d7-56eb-45c7-b8ed-76ad01364250","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"f0dfe9d7-56eb-45c7-b8ed-76ad01364250","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d311dd85-b964-4332-a737-fc8e0dd22e2e","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d311dd85-b964-4332-a737-fc8e0dd22e2e","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"d311dd85-b964-4332-a737-fc8e0dd22e2e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e2c31efc-2178-447e-ac25-413389bb6d02","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e2c31efc-2178-447e-ac25-413389bb6d02","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"e2c31efc-2178-447e-ac25-413389bb6d02","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6bb35d14-4056-4969-b4cb-81a659890465","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6bb35d14-4056-4969-b4cb-81a659890465","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"6bb35d14-4056-4969-b4cb-81a659890465","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0f903f7a-376f-431c-b72f-a093c1d15b1a","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0f903f7a-376f-431c-b72f-a093c1d15b1a","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"0f903f7a-376f-431c-b72f-a093c1d15b1a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c83b0f8a-4a72-48df-8308-88c0e5df9b0c","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c83b0f8a-4a72-48df-8308-88c0e5df9b0c","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"c83b0f8a-4a72-48df-8308-88c0e5df9b0c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d5701eaa-bfde-4238-b889-fba0007c2737","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d5701eaa-bfde-4238-b889-fba0007c2737","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"d5701eaa-bfde-4238-b889-fba0007c2737","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f70e700a-c8e4-41cc-8c2a-7433b7f67476","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f70e700a-c8e4-41cc-8c2a-7433b7f67476","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"f70e700a-c8e4-41cc-8c2a-7433b7f67476","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9eec2fb8-e7e2-4afe-8ec9-5a8a00f71681","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9eec2fb8-e7e2-4afe-8ec9-5a8a00f71681","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"9eec2fb8-e7e2-4afe-8ec9-5a8a00f71681","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2aeaf2fa-4e76-44c4-a66b-029ffb42a4da","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2aeaf2fa-4e76-44c4-a66b-029ffb42a4da","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"2aeaf2fa-4e76-44c4-a66b-029ffb42a4da","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c6855bb9-031d-4f42-bf10-b35a39175f66","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c6855bb9-031d-4f42-bf10-b35a39175f66","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"c6855bb9-031d-4f42-bf10-b35a39175f66","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"41063e4f-e818-447b-9132-244e3f044493","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"41063e4f-e818-447b-9132-244e3f044493","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"41063e4f-e818-447b-9132-244e3f044493","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"50b3219f-1bd8-4822-a25e-05fe47b1662a","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"50b3219f-1bd8-4822-a25e-05fe47b1662a","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"50b3219f-1bd8-4822-a25e-05fe47b1662a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"809d27ec-821a-4120-8dbb-86aca699afa9","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"809d27ec-821a-4120-8dbb-86aca699afa9","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"809d27ec-821a-4120-8dbb-86aca699afa9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2e9af84b-acd0-4ca8-bdaf-04f6aa9f6265","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2e9af84b-acd0-4ca8-bdaf-04f6aa9f6265","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"2e9af84b-acd0-4ca8-bdaf-04f6aa9f6265","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f87cc45a-5948-4a51-9fd7-9673eee77aba","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f87cc45a-5948-4a51-9fd7-9673eee77aba","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"f87cc45a-5948-4a51-9fd7-9673eee77aba","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c7a95ec9-75b9-4c77-bb78-d4db420e9cb0","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c7a95ec9-75b9-4c77-bb78-d4db420e9cb0","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"c7a95ec9-75b9-4c77-bb78-d4db420e9cb0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1f86b957-aeca-4fb9-870b-f9628633c216","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1f86b957-aeca-4fb9-870b-f9628633c216","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"1f86b957-aeca-4fb9-870b-f9628633c216","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"76fc089b-7651-4894-a2f4-ec86b81c215d","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"76fc089b-7651-4894-a2f4-ec86b81c215d","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"LayerId":{"name":"f19069b1-7db4-4a38-a202-5207a2a79146","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","name":"76fc089b-7651-4894-a2f4-ec86b81c215d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ccaad393-5b98-4b30-b040-c8528828b791",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"72e1c06b-e220-4a74-9095-a764eefc2733",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"57eadcd5-16a3-4bc6-99fb-a975978aceef",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"84838ef7-4ea2-436c-908d-de08160c08d2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9798cfed-d53d-4032-8e87-07075dee423c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e489449f-8172-4b86-ab1b-518859cd87bf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"79f66615-9141-466c-b2f1-be71beb9cbd8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f3eadf57-467a-4fab-8ed0-9461839c1b0d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0dfe9d7-56eb-45c7-b8ed-76ad01364250",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d311dd85-b964-4332-a737-fc8e0dd22e2e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e2c31efc-2178-447e-ac25-413389bb6d02",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6bb35d14-4056-4969-b4cb-81a659890465",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0f903f7a-376f-431c-b72f-a093c1d15b1a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c83b0f8a-4a72-48df-8308-88c0e5df9b0c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d5701eaa-bfde-4238-b889-fba0007c2737",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f70e700a-c8e4-41cc-8c2a-7433b7f67476",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9eec2fb8-e7e2-4afe-8ec9-5a8a00f71681",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2aeaf2fa-4e76-44c4-a66b-029ffb42a4da",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c6855bb9-031d-4f42-bf10-b35a39175f66",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"41063e4f-e818-447b-9132-244e3f044493",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"50b3219f-1bd8-4822-a25e-05fe47b1662a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"809d27ec-821a-4120-8dbb-86aca699afa9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2e9af84b-acd0-4ca8-bdaf-04f6aa9f6265",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f87cc45a-5948-4a51-9fd7-9673eee77aba",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c7a95ec9-75b9-4c77-bb78-d4db420e9cb0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1f86b957-aeca-4fb9-870b-f9628633c216",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"76fc089b-7651-4894-a2f4-ec86b81c215d",},
   ],
   "sequence": {
-    "spriteId": {"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -118,7 +70,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"dd46ea05-3612-41f7-b374-eaf18e6e1759","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ccaad393-5b98-4b30-b040-c8528828b791","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b1291f61-3174-4f7f-9de4-4d249471b16d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"72e1c06b-e220-4a74-9095-a764eefc2733","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5bff1124-1765-4d28-9174-18f52f109c6c","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"57eadcd5-16a3-4bc6-99fb-a975978aceef","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -146,7 +98,7 @@
             {"id":"7f1fe32f-67d4-4766-af25-2813eb84379a","Key":24.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c7a95ec9-75b9-4c77-bb78-d4db420e9cb0","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5d01e336-66f4-411d-bfed-d8ef7b45968e","Key":25.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1f86b957-aeca-4fb9-870b-f9628633c216","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c133881b-1264-46c6-ac11-500da6f61d6f","Key":26.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"76fc089b-7651-4894-a2f4-ec86b81c215d","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -162,21 +114,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"GaslightFontSprite","path":"sprites/GaslightFontSprite/GaslightFontSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f19069b1-7db4-4a38-a202-5207a2a79146","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f19069b1-7db4-4a38-a202-5207a2a79146","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Fonts",
     "path": "folders/Sprites/UI Elements/Fonts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GaslightFontSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

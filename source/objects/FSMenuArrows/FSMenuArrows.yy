@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "FSMenuArrows",
   "spriteId": {
     "name": "FileSelectMenuArrowsSprite",
     "path": "sprites/FileSelectMenuArrowsSprite/FileSelectMenuArrowsSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,8 +25,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"FSMenuArrows","path":"objects/FSMenuArrows/FSMenuArrows.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"FSMenuArrows","path":"objects/FSMenuArrows/FSMenuArrows.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,8 +34,4 @@
     "name": "Elements",
     "path": "folders/Objects/UI Elements/Menus/File Select/Choices/Elements.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "FSMenuArrows",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "CorkscrewFront",
   "spriteId": {
     "name": "CorkscrewFrontSprite",
     "path": "sprites/CorkscrewFrontSprite/CorkscrewFrontSprite.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "Corkscrew",
     "path": "folders/Objects/Level Elements/Demo Zone/Terrain/Corkscrew.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "CorkscrewFront",
-  "tags": [],
-  "resourceType": "GMObject",
 }

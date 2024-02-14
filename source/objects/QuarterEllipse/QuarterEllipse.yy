@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "QuarterEllipse",
   "spriteId": null,
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -27,8 +31,4 @@
     "name": "Shapes",
     "path": "folders/Objects/Level Elements/Common/Shapes.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "QuarterEllipse",
-  "tags": [],
-  "resourceType": "GMObject",
 }

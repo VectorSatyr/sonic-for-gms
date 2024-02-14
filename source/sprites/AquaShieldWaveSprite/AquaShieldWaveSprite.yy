@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "AquaShieldWaveSprite",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 46,
   "height": 48,
   "textureGroupId": {
@@ -24,39 +28,21 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8fc0a50b-0845-484f-9a0c-4182cafb9160","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8fc0a50b-0845-484f-9a0c-4182cafb9160","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"8fc0a50b-0845-484f-9a0c-4182cafb9160","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b5c2f784-8ba1-497b-86ed-ceb0fe8da124","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b5c2f784-8ba1-497b-86ed-ceb0fe8da124","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"b5c2f784-8ba1-497b-86ed-ceb0fe8da124","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a83e481e-7764-4662-8265-9048cb84ca99","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a83e481e-7764-4662-8265-9048cb84ca99","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"a83e481e-7764-4662-8265-9048cb84ca99","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a2f76a2b-6038-4ddf-b4b9-7738da1f208f","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a2f76a2b-6038-4ddf-b4b9-7738da1f208f","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"a2f76a2b-6038-4ddf-b4b9-7738da1f208f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0afe7261-291e-4401-84c7-249ad8c2e073","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0afe7261-291e-4401-84c7-249ad8c2e073","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"0afe7261-291e-4401-84c7-249ad8c2e073","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"58889ce6-7589-4abe-9897-1288c59e9ab2","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"58889ce6-7589-4abe-9897-1288c59e9ab2","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"58889ce6-7589-4abe-9897-1288c59e9ab2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3f69cce1-1337-45ae-9dba-345a12925f7b","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3f69cce1-1337-45ae-9dba-345a12925f7b","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"3f69cce1-1337-45ae-9dba-345a12925f7b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5e5c9546-9180-4adb-a1c7-a22cf5808a61","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5e5c9546-9180-4adb-a1c7-a22cf5808a61","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"5e5c9546-9180-4adb-a1c7-a22cf5808a61","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"20d9cb8a-8a67-4f1d-b6a6-1a229f5c7534","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"20d9cb8a-8a67-4f1d-b6a6-1a229f5c7534","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"20d9cb8a-8a67-4f1d-b6a6-1a229f5c7534","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aabbd3aa-df27-4cfe-9266-f81ba4cd4462","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aabbd3aa-df27-4cfe-9266-f81ba4cd4462","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"LayerId":{"name":"7353f984-74a1-43f4-8d7e-02d3035d395a","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","name":"aabbd3aa-df27-4cfe-9266-f81ba4cd4462","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8fc0a50b-0845-484f-9a0c-4182cafb9160",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b5c2f784-8ba1-497b-86ed-ceb0fe8da124",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a83e481e-7764-4662-8265-9048cb84ca99",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a2f76a2b-6038-4ddf-b4b9-7738da1f208f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0afe7261-291e-4401-84c7-249ad8c2e073",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"58889ce6-7589-4abe-9897-1288c59e9ab2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3f69cce1-1337-45ae-9dba-345a12925f7b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5e5c9546-9180-4adb-a1c7-a22cf5808a61",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"20d9cb8a-8a67-4f1d-b6a6-1a229f5c7534",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aabbd3aa-df27-4cfe-9266-f81ba4cd4462",},
   ],
   "sequence": {
-    "spriteId": {"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -67,7 +53,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"29df72c3-0c1a-4467-a1f2-fd6f6186e1e9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8fc0a50b-0845-484f-9a0c-4182cafb9160","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9a19bd84-4306-4e29-8aea-77985b2abeb0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b5c2f784-8ba1-497b-86ed-ceb0fe8da124","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0c8a6564-7e41-456a-a6f7-df807bec7879","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a83e481e-7764-4662-8265-9048cb84ca99","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -78,7 +64,7 @@
             {"id":"3934c829-d4fa-430a-a8d2-257d6adb9e2a","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5e5c9546-9180-4adb-a1c7-a22cf5808a61","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"fde5e323-bd00-4db9-95dd-c3445edf1c51","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"20d9cb8a-8a67-4f1d-b6a6-1a229f5c7534","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ecef6873-6b30-44c7-958a-5626315f8ac4","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aabbd3aa-df27-4cfe-9266-f81ba4cd4462","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -94,21 +80,13 @@
     "yorigin": 24,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"AquaShieldWaveSprite","path":"sprites/AquaShieldWaveSprite/AquaShieldWaveSprite.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7353f984-74a1-43f4-8d7e-02d3035d395a","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7353f984-74a1-43f4-8d7e-02d3035d395a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Shields",
     "path": "folders/Sprites/Level Elements/Player/Shields.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "AquaShieldWaveSprite",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "DropDashSound",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -16,8 +20,4 @@
     "name": "Sonic",
     "path": "folders/Sounds/Sound Effects/Player Character/Specific/Sonic.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DropDashSound",
-  "tags": [],
-  "resourceType": "GMSound",
 }

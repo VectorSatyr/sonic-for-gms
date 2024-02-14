@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "DesktopDisclaimerInput",
   "spriteId": null,
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -18,7 +22,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":112,"eventType":9,"collisionObjectId":null,"parent":{"name":"DesktopDisclaimerInput","path":"objects/DesktopDisclaimerInput/DesktopDisclaimerInput.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":112,"eventType":9,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -26,8 +30,4 @@
     "name": "Title Screen",
     "path": "folders/Objects/UI Elements/Presentations/Title Screen.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DesktopDisclaimerInput",
-  "tags": [],
-  "resourceType": "GMObject",
 }
