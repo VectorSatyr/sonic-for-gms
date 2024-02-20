@@ -11,7 +11,7 @@ if (game_is_running()) {
     
     case "tallying":
 		var decrement = bonus_decrement;
-		if (game_input_event("a", 0) or game_input_event("b", 0) or game_input_event("c", 0)) {
+		if (input_check(["a", "b", "c"], 0)) {
 			decrement *= 2;
 		}
         var change;
