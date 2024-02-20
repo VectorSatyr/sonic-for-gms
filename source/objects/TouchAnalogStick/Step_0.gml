@@ -1,4 +1,5 @@
 /// @description Position
+event_inherited();
 stick.touched = touched;
 if (touched)
 {
