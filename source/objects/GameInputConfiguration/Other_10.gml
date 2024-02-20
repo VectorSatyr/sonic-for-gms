@@ -1,4 +1,4 @@
-var _buffer = buffer_load("input.json");
+var _buffer = buffer_load(fname);
 if (_buffer != -1) {
 	var _string = buffer_read(_buffer, buffer_text);
 	buffer_delete(_buffer);

@@ -1,8 +1,6 @@
 /// @description  Initialize
 image_speed = 0;
 
-fname = "settings.ini";
-
 default_keyboard_up = vk_up;
 default_keyboard_down = vk_down;
 default_keyboard_left = vk_left;
