@@ -1,8 +1,4 @@
 /// @description Register
-if (event != "")
-{
-	with (DeviceTouch)
-	{
-		ds_list_add(events, other.event);
-	}
+if (event != "") {
+	input_verb_set(event, 1);
 }
