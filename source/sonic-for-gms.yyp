@@ -858,7 +858,7 @@
     {"id":{"name":"GameMusicJingle","path":"objects/GameMusicJingle/GameMusicJingle.yy",},"order":7,},
     {"id":{"name":"GameClock","path":"objects/GameClock/GameClock.yy",},"order":1,},
     {"id":{"name":"input_player_connected_count","path":"scripts/input_player_connected_count/input_player_connected_count.yy",},"order":3,},
-    {"id":{"name":"GameInputConfiguration","path":"objects/GameInputConfiguration/GameInputConfiguration.yy",},"order":1,},
+    {"id":{"name":"InputSettings","path":"objects/InputSettings/InputSettings.yy",},"order":1,},
     {"id":{"name":"GameTouchConfiguration","path":"objects/GameTouchConfiguration/GameTouchConfiguration.yy",},"order":3,},
     {"id":{"name":"GameSaveDirectory","path":"objects/GameSaveDirectory/GameSaveDirectory.yy",},"order":5,},
     {"id":{"name":"GameSaveFile","path":"objects/GameSaveFile/GameSaveFile.yy",},"order":7,},

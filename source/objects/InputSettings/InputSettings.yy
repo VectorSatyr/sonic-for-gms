@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "GameInputConfiguration",
+  "name": "InputSettings",
   "spriteId": null,
   "solid": false,
   "visible": false,
