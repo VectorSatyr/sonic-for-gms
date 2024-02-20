@@ -1,3 +1,2 @@
-/// @description  Finish
-event_user(1);
-
+/// @description Auto-save settings
+save();

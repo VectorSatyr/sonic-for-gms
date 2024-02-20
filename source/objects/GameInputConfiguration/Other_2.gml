@@ -1,3 +1,2 @@
-/// @description  Start
-event_user(0);
-
+/// @description Auto-load settings
+load();
