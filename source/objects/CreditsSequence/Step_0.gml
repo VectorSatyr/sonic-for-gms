@@ -26,7 +26,7 @@ case "enter":
 
 case "wait":
 	--display_time;
-	if (game_input_event_pressed("start"))
+	if (input_check_pressed("start"))
 	{
 		finished = true;
 		phase = "exit";
