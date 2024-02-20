@@ -864,7 +864,6 @@
     {"id":{"name":"GameSaveFile","path":"objects/GameSaveFile/GameSaveFile.yy",},"order":7,},
     {"id":{"name":"InputSource","path":"objects/InputSource/InputSource.yy",},"order":1,},
     {"id":{"name":"DeviceTouch","path":"objects/DeviceTouch/DeviceTouch.yy",},"order":1,},
-    {"id":{"name":"Gamepad","path":"objects/Gamepad/Gamepad.yy",},"order":3,},
     {"id":{"name":"__input_transform_coordinate","path":"scripts/__input_transform_coordinate/__input_transform_coordinate.yy",},"order":26,},
     {"id":{"name":"input_trigger_effect_off","path":"scripts/input_trigger_effect_off/input_trigger_effect_off.yy",},"order":4,},
     {"id":{"name":"PlayerCamera","path":"objects/PlayerCamera/PlayerCamera.yy",},"order":1,},
