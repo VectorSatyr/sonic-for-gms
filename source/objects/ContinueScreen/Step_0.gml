@@ -6,7 +6,7 @@ if (game_is_running())
 	case "countdown":
 		--countdown;
 		countdown_text = string_format_zero(countdown div room_speed, 2, 0);
-		if (game_input_event_pressed("start"))
+		if (input_check_pressed("start"))
 		{
 			event_user(0); // proceed
 		}
