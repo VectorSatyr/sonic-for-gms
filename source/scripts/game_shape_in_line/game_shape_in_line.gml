@@ -41,7 +41,16 @@ function game_shape_in_line(argument0, argument1, argument2, argument3, argument
 	    var yrad = shape.sprite_height;
 	    result = segment_in_quarter_pipe(x1, y1, x2, y2, cx, cy, xrad, yrad);
 	} else {
-	    result = (collision_line(x1, y1, x2, y2, shape, true, true) != noone);
+		var len = point_distance(x1, y1, x2, y2);
+		var dir = point_direction(x1, y1, x2, y2);
+		var portion = 0.01;
+		for (var d = 0; d <= 1; d += portion) {
+			if (position_meeting(x1 + lengthdir_x(len * d, dir), 
+								 y1 + lengthdir_y(len * d, dir), shape)) {
+				result = true;
+				break;
+			}
+		}
 	}
 
 	return result;
