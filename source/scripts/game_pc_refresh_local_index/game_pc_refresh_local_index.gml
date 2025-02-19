@@ -6,7 +6,7 @@ function game_pc_refresh_local_index(argument0) {
 	    ds_list_clear(local_solids);
 
 	    var xrad = x_wall_radius * 2;
-	    var yrad = y_radius + y_snap_distance;
+	    var yrad = (y_radius * 3) + 1;
 
 	    var size = instance_number(Deactivable);
 	    var ind;
