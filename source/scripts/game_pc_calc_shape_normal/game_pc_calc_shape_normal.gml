@@ -9,7 +9,7 @@ function game_pc_calc_shape_normal(argument0, argument1, argument2) {
 
 	with (character) {
 	    if (shape.auto_normal) {
-	        var ang = mask_direction;
+	        var ang = orientation;
 	        var offset = (y_radius * 2) + 1;
 	        var total = ds_list_size(local_solids);
 	        if (total > 0 and ds_list_find_index(local_solids, shape) != -1) {
