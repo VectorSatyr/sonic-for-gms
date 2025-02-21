@@ -13,7 +13,6 @@ function game_pc_find_ground(argument0, argument1) {
 	            if (abs(angle_difference(new_dir, direction)) <= 45 or not on_the_ground) {
 	                game_pc_land(id, ind);
 	                game_pc_redirect(id, new_dir);
-	                game_pc_find_outlier(id);
 	                break;
 	            }
 	        }
@@ -35,6 +34,8 @@ function game_pc_find_ground(argument0, argument1) {
 	                break;
 	            }
 	        }
+			
+			game_pc_find_outlier(id);
 	    }
 	}
 
